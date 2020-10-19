@@ -6,5 +6,9 @@ https://github.com/duskload/react-device-detect
 
 npm install react-device-detect --save
 
+## デモ
+
+[DEMO](https://setogawamasao.github.io/device-detect/)
+
 ※ctrl + F5 でスーパーリフレッシュしないと更新されない  
-![DEMO](./gif/demo.gif)
+![GIF](./gif/demo.gif)
